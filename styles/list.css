@@ -1,0 +1,121 @@
+@import url('https://fonts.googleapis.com/css?family=Irish+Grover|Dosis');
+
+header{
+    background-color:#1D3557;
+    font-family:Irish Grover, Helvetica, sans-serif;
+    display: grid;
+    grid-template-columns: 150px auto;
+}
+.logo{
+    width:120px;
+    height:120px;
+    padding:20px;
+}
+nav a{
+    color: #9CBED3;
+    text-decoration:none;
+    padding: 90px;
+    font-size: 70px;
+    text-align:center;
+}
+nav{
+    margin-top:35px;
+}
+nav a:hover{
+    background-color:#9CBED3 ;
+    color: #1D3557 ;
+}
+.Nicholas-img{
+    height:300px;
+    grid-column: 2/5;
+    padding: 80px;
+}
+.Sue-img{
+    height:300px;
+    grid-column: 2/5;
+    padding: 80px;
+}
+.Steven-img{
+    height:300px;
+    grid-column: 2/5;
+    padding: 80px;
+}
+.Garry-img{
+    height:300px;
+    grid-column: 2/5;
+    padding: 80px;
+}
+.Jenni-img{
+    height:300px;
+    grid-column: 2/5;
+    padding: 80px;
+}
+.Weston-img{
+    height:300px;
+    grid-column: 2/5;
+    padding: 80px;
+    width: 440px;
+}
+.Nicholas{
+    font-size: 22px;
+    width:400px;
+    font-family: Dosis;
+    color:#1D3557;
+}
+#Background{
+    height:720px;
+    background-color:#9CBED3;
+}
+.Sue{
+    font-size: 22px;
+    width:400px;
+    font-family: Dosis;
+    color:#1D3557;
+}
+.Jenni{
+    font-size: 22px;
+    width:400px;
+    font-family: Dosis;
+    color:#1D3557;
+}
+.Weston{
+    font-size: 22px;
+    width:400px;
+    font-family: Dosis;
+    color:#1D3557;
+}
+
+.Steven{
+    font-size: 22px;
+    width:400px;
+    font-family: Dosis;
+    color:#1D3557;
+}
+.Garry{
+    font-size: 22px;
+    width:400px;
+    font-family: Dosis;
+    color:#1D3557;
+}
+footer{
+    background-color: #1D3557;
+    padding:25px 50px;
+    margin-top: 2000px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    text-decoration:none;
+    font-size: 22px
+}
+footer h3{
+    color:#9CBED3;
+    font-family:Irish Grover, Helvetica, sans-serif;
+}
+footer a{
+    color:#9CBED3;
+    font-family:Irish Grover, Helvetica, sans-serif;
+}
+footer a:hover{
+    color:#1D3557;
+    background-color: #9CBED3;
+}
