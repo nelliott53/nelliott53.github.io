@@ -97,6 +97,54 @@ nav a:hover{
     font-family: Dosis;
     color:#1D3557;
 }
+.Nicholas a{
+    color:#1D3557;
+    font-family:Irish Grover, Helvetica, sans-serif;
+}
+.Nicholas a:hover{
+    color:#9CBED3;
+    background-color:#1D3557
+}
+.Sue a{
+    color:#1D3557;
+    font-family:Irish Grover, Helvetica, sans-serif;
+}
+.Sue a:hover{
+    color:#9CBED3;
+    background-color:#1D3557
+}
+.Steven a{
+    color:#1D3557;
+    font-family:Irish Grover, Helvetica, sans-serif;
+}
+.Steven a:hover{
+    color:#9CBED3;
+    background-color:#1D3557
+}
+.Garry a{
+    color:#1D3557;
+    font-family:Irish Grover, Helvetica, sans-serif;
+}
+.Garry a:hover{
+    color:#9CBED3;
+    background-color:#1D3557
+}
+.Jenni a{
+    color:#1D3557;
+    font-family:Irish Grover, Helvetica, sans-serif;
+}
+.Jenni a:hover{
+    color:#9CBED3;
+    background-color:#1D3557
+}
+.Weston a{
+    color:#1D3557;
+    font-family:Irish Grover, Helvetica, sans-serif;
+}
+.Weston a:hover{
+    color:#9CBED3;
+    background-color:#1D3557
+}
 footer{
     background-color: #1D3557;
     padding:25px 50px;
