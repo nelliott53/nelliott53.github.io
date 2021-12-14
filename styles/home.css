@@ -28,13 +28,28 @@ nav a:hover{
 footer{
     background-color: #1D3557;
     padding:25px 50px;
-    margin-top: 2000px;
+    margin-top: 725px;
     display: flex;
     justify-content: space-around;
     align-items: center;
     text-decoration:none;
     font-size: 22px
 }
+.Home-img{
+    width:1350px;
+}
+.Par1{
+    color:#1D3557;
+    font-family:Irish Grover, Helvetica, sans-serif;
+    font-size: 30px;
+    width: 400px;
+}
+.Par2{
+    color:#1D3557;
+    font-family:Irish Grover, Helvetica, sans-serif;
+    font-size: 30px;
+}
+
 footer h3{
     color:#9CBED3;
     font-family:Irish Grover, Helvetica, sans-serif;
