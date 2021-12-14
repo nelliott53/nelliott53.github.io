@@ -11,6 +11,10 @@ header{
     height:120px;
     padding:20px;
 }
+#Background{
+    height:720px;
+    background-color:#9CBED3;
+}
 nav a{
     color: #9CBED3;
     text-decoration:none;
